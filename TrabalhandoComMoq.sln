@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComMoq", "TrabalhandoComMoq\TrabalhandoComMoq.csproj", "{C18D9E3E-76B8-41A5-B04C-E7FF2350BD82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComMoq", "TrabalhandoComMoq\TrabalhandoComMoq.csproj", "{C18D9E3E-76B8-41A5-B04C-E7FF2350BD82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComMoqTeste", "TrabalhandoComMoqTeste\TrabalhandoComMoqTeste.csproj", "{AF5AE329-B334-4EA6-884F-C84F9ED55F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComMoqTeste", "TrabalhandoComMoqTeste\TrabalhandoComMoqTeste.csproj", "{AF5AE329-B334-4EA6-884F-C84F9ED55F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE931316-676A-406B-8B61-1D46A598C7D6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
